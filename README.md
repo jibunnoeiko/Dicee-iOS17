@@ -29,3 +29,4 @@ We’re going to make a Las Vegas dice app. You can make the die roll at the pre
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+<img width="480" alt="Screenshot 2023-10-17 at 01 31 18" src="https://github.com/jibunnoeiko/Dicee-iOS13/assets/62598594/fa9c0fc5-5c43-4e7a-9a3c-7d40da9417df">
